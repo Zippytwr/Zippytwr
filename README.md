@@ -1,12 +1,8 @@
 
-<h1 align="center">Zippytwr</h1>
-<p align="center">
-  <em>Code wizardry from the kaleidoscopic depths</em>
-</p>
+# Zippytwr
+*Code wizardry from the kaleidoscopic depths*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zippytwr/Zippytwr/main/assets/banner.gif" alt="psychedelic banner" width="80%" />
-</p>
+![psychedelic banner](https://raw.githubusercontent.com/Zippytwr/Zippytwr/main/assets/banner.gif)
 
 ---
 
@@ -25,9 +21,9 @@ const zippytwr = {
 
 ### 🌀 Projects of the Arcane
 
-- **gitgeis** — CLI-инструмент для изучения реп истории как гадальной практики.
-- **dreamscriptr** — псевдоязык для управления боями и историями.
-- **[project under the veil]** — доступен только тем, кто знает true path.
+- **gitgeis** — CLI tool for exploring Git history as a divination practice.
+- **dreamscriptr** — A pseudo-language for controlling battles and stories.
+- **[project under the veil]** — Available only to those who know the true path.
 
 ---
 
@@ -36,18 +32,16 @@ const zippytwr = {
 > "I don’t just write code — I summon it.  
 > Each function a rune, each commit a whisper through the static."
 
-Люблю **минимализм Go** и **гибкость фронта**, но в душе я скорее **инженер-отшельник**, чем team player.
+I love **Go's minimalism** and **frontend flexibility**, but deep down I’m more of a **lone engineer** than a team player.
 
 ---
 
 ### 🧿 Connect with the Tower
 
-- Discord: Zippytwr#XXXX  
-- Telegram: [@Zippytwr](https://t.me/Zippytwr)  
+- Discord: nancyiess
+- Telegram: [@Zippytwr](https://t.me/GafurSH)  
 - Website: *in dreams, coming soon…*
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zippytwr/Zippytwr/main/assets/magic-circle.gif" width="200px" />
-</p>
+![magic circle](https://raw.githubusercontent.com/Zippytwr/Zippytwr/main/assets/magic-circle.gif)
