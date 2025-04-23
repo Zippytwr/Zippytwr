@@ -21,9 +21,7 @@ const zippytwr = {
 
 ### 🌀 Projects of the Arcane
 
-- **gitgeis** — CLI tool for exploring Git history as a divination practice.
-- **dreamscriptr** — A pseudo-language for controlling battles and stories.
-- **[project under the veil]** — Available only to those who know the true path.
+- **gitgeist** — CLI tool for exploring Git history as a divination practice.
 
 ---
 
