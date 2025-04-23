@@ -2,7 +2,7 @@
 # Zippytwr
 *Code wizardry from the kaleidoscopic depths*
 
-![psychedelic banner](https://raw.githubusercontent.com/Zippytwr/Zippytwr/main/assets/banner.gif)
+![psychedelic banner](https://i.pinimg.com/736x/25/ee/50/25ee506943886360af19ad4b1802d08e.jpg)
 
 ---
 
