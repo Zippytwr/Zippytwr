@@ -20,7 +20,7 @@ const zippytwr = {
 
 ### 🌀 Projects of the Arcane
 
-- **gitgeist** — CLI tool for exploring Git history as a divination practice.
+- [**gitgeist**](https://github.com/Zippytwr/gitgiest) — CLI tool for exploring Git history as a divination practice.
 
 ---
 
