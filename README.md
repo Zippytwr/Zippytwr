@@ -40,6 +40,10 @@ I love **Go's minimalism** and **frontend flexibility**, but deep down I’m mor
 
 ---
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zippytwr&bg_color=FFFFFF&color=000000&line=00FF00&point=0000FF)
+
+---
+
 ### 🧿 Connect with the Tower
 
 - Discord: nancyiess
