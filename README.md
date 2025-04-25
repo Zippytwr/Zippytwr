@@ -21,6 +21,7 @@ const zippytwr = {
 ### 🌀 Projects of the Arcane
 
 - [**gitgeist**](https://github.com/Zippytwr/gitgiest) — CLI tool for exploring Git history as a divination practice.
+- ![Last Updated](https://img.shields.io/github/last-commit/zippytwr/gitgiest?style=flat)
 
 ---
 
@@ -40,9 +41,6 @@ I love **Go's minimalism** and **frontend flexibility**, but deep down I’m mor
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zippytwr&bg_color=FFFFFF&color=000000&line=00FF00&point=0000FF)
-
----
 
 ### 🧿 Connect with the Tower
 
