@@ -21,6 +21,7 @@ const zippytwr = {
 ### 🌀 Projects of the Arcane
 
 - [**gitgeist**](https://github.com/Zippytwr/gitgiest) — CLI tool for exploring Git history as a divination practice. || ![Last Updated](https://img.shields.io/github/last-commit/zippytwr/gitgiest?style=plastic)
+- [**monoFiles**](https://github.com/Zippytwr/monofiles) — Simple Cloud Storage || ![Last Updated](https://img.shields.io/github/last-commit/zippytwr/monofiles?style=plastic)
 
 ---
 
