@@ -33,17 +33,16 @@ const zippytwr = {
 I love **Go's minimalism** and **frontend flexibility**, but deep down I’m more of a **lone engineer** than a team player.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zippytwr&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zippytwr&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytwr&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytwr&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 
 ### 🧿 Connect with the Tower
-
 - Discord: nancyiess
 - Telegram: [@Zippytwr](https://t.me/GafurSH)  
 - Website: *in dreams, coming soon…*
