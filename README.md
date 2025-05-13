@@ -37,7 +37,7 @@ I love **Go's minimalism** and **frontend flexibility**, but deep down I’m mor
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytwr&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytwr&layout=pie&hide=html,css,innosetup)
 
 ---
 
