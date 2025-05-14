@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/zippytwr/count.svg)
   
   # Hello There! I'm Zippytwr ✋
   
