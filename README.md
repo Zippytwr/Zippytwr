@@ -64,4 +64,7 @@ I love **Go's minimalism** and **frontend flexibility**, but deep down I’m mor
 ---
 
 
-![magic circle](https://i.pinimg.com/736x/10/e9/0f/10e90f45e87069ae8b4a8021be536964.jpg)
+<div align="center">
+  
+  ![magic circle](https://i.pinimg.com/736x/10/e9/0f/10e90f45e87069ae8b4a8021be536964.jpg)
+</div>
