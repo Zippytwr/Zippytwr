@@ -1,5 +1,5 @@
 
-# Zippytwr
+# Hello There! I'm Zippytwr ✋
 *Code wizardry from the kaleidoscopic depths*
 
 
@@ -15,15 +15,30 @@ const zippytwr = {
   currently: "Building minimalistic tools with a maximalist soul",
 };
 ```
+<div align="center">
+  
+  ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t6aDk4a3c3aXBsanl6NzAxNGoyN2kzN3I5bXpubWFyMGtjc3ZoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qB2HYA1vVSxooSY/giphy.gif)
+  
+</div>
 
----
+
+
+<div align="center">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytwr&layout=compact&hide=html,css,innosetup&theme=radical)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zippytwr&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 
 ### 🌀 Projects of the Arcane
+  
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=monofiles&theme=radical) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=gitgiest&theme=radical)
 
-- [**gitgeist**](https://github.com/Zippytwr/gitgiest) — CLI tool for exploring Git history as a divination practice. || ![Last Updated](https://img.shields.io/github/last-commit/zippytwr/gitgiest?style=plastic)
-- [**monoFiles**](https://github.com/Zippytwr/monofiles) — Simple Cloud Storage and Social media || ![Last Updated](https://img.shields.io/github/last-commit/zippytwr/monofiles?style=plastic)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=zippytwr&theme=radical)
+  
+</div>
 
----
+
 
 ### ☠️ Philosophy
 
@@ -32,14 +47,6 @@ const zippytwr = {
 
 I love **Go's minimalism** and **frontend flexibility**, but deep down I’m more of a **lone engineer** than a team player.
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zippytwr&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytwr&layout=pie&hide=html,css,innosetup)
-
----
 
 
 ### 🧿 Connect with the Tower
@@ -48,5 +55,6 @@ I love **Go's minimalism** and **frontend flexibility**, but deep down I’m mor
 - Website: *in dreams, coming soon…*
 
 ---
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8935472350f489d8dd8334c8112a6c7e)
 
 ![magic circle](https://i.pinimg.com/736x/10/e9/0f/10e90f45e87069ae8b4a8021be536964.jpg)
