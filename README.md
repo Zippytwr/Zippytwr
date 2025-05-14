@@ -54,6 +54,6 @@ I love **Go's minimalism** and **frontend flexibility**, but deep down I’m mor
 - Website: *in dreams, coming soon…*
 
 ---
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8935472350f489d8dd8334c8112a6c7e)
+
 
 ![magic circle](https://i.pinimg.com/736x/10/e9/0f/10e90f45e87069ae8b4a8021be536964.jpg)
