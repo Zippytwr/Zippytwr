@@ -1,6 +1,14 @@
+<div align="center">
 
-# Hello There! I'm Zippytwr ✋
-*Code wizardry from the kaleidoscopic depths*
+  ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+  
+  # Hello There! I'm Zippytwr ✋
+  
+  *Code wizardry from the kaleidoscopic depths*
+  
+</div>
+
+
 
 
 ---
