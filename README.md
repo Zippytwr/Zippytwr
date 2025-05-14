@@ -43,17 +43,8 @@ const zippytwr = {
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=zippytwr&theme=radical)
   
+  ![graph](https://github-readme-activity-graph.vercel.app/graph?username=zippytwr&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 </div>
-
-
-
-### ☠️ Philosophy
-
-> "I don’t just write code — I summon it.  
-> Each function a rune, each commit a whisper through the static."
-
-I love **Go's minimalism** and **frontend flexibility**, but deep down I’m more of a **lone engineer** than a team player.
-
 
 
 ### 🧿 Connect with the Tower
