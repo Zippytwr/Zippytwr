@@ -30,7 +30,6 @@ const zippytwr = {
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zippytwr&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 
-### 🌀 Projects of the Arcane
   
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=monofiles&theme=radical) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=gitgiest&theme=radical)
 
