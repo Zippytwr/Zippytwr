@@ -40,7 +40,7 @@
 
 
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=gitgiest&theme=radical) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=forcenote&theme=radical)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=forcenote&theme=radical)
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=zippytwr&theme=radical)
   
