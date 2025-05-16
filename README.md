@@ -36,11 +36,11 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytwr&layout=compact&hide=html,css,innosetup&theme=radical)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zippytwr&show_icons=true&hide_title=true&count_private=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zippytwr&show_icons=true&hide_title=true&count_private=true&theme=radical) 
 
 
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=forcenote&theme=radical)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=forcenote&theme=radical) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zippytwr&repo=gitgiest&theme=radical)
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=zippytwr&theme=radical)
   
